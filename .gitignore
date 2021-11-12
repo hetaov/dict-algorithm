@@ -1,0 +1,15 @@
+.vscode/
+node_modules/
+build/
+app/public/config/*.js
+coverage/
+.eslintcache
+npm-debug.log
+yarn-error.log
+package-lock.json
+.idea/
+dist/
+.DS_Store
+
+.env
+.next
